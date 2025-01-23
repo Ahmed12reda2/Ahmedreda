@@ -6,7 +6,7 @@
 
 body {
     font-family: "Salsa", serif;
-    background-color: #000000;
+    background-color: #242526;
     perspective: 700px;
 }
 header{
@@ -16,7 +16,7 @@ header{
      display: flex ;
     justify-content: center;
     align-items: center; 
-    background-color:#2a2a2a;
+    background-color:#262626;
 }
 .container{
     width: 90%;
@@ -369,7 +369,6 @@ nav{
     position: absolute;
     background-color: rgb(45, 87, 134);
 }
-
 .container-sec2{
     width: 90%;
     display: flex;
@@ -489,7 +488,7 @@ nav{
     letter-spacing: 1px;
     word-spacing: 1px;
     line-height: 25px;
-    color: #313C4A;
+    color: #4f5760;
     font-size: 20px;
 }
 .text-user{
@@ -514,7 +513,7 @@ nav{
     margin: 15px 0px 0px -89px;
     font-size: 13px;
     font-weight: 700;
-    color: #313C4A;
+    color: #4f5760;
 }
 .container-sec3::after{
     border-width: 0px 4px 4px 0;
@@ -594,7 +593,7 @@ nav{
 }
 .text-sec p {
     font-size: 17px;
-    color: #333536;
+    color: #414F5D;
 }
 .text-sec del{
     margin-left: 10px;
